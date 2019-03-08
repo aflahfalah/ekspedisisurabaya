@@ -1,0 +1,2 @@
+# wpsafe
+wp safelink bro
